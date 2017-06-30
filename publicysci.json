@@ -1,0 +1,178 @@
+[
+    {
+        "name":"Michał Cholewa",
+        "mail":"mcholewa@gmail.com",
+        "publications":[
+            "Nieustający upadek"
+        ],
+        "info":"Jeden tekst na koncie, publikujący autor."
+    },
+    {
+        "name":"Piotr W. Cholewa",
+        "mail":"pwc@skf.from.hell.pl",
+        "publications":[
+            "Nareszcie, Sir Terry, wyruszymy razem"
+        ],
+        "info":"VIP"
+    },
+    {
+        "name":"Piotr Górski",
+        "mail":"holwitz@gmail.com",
+        "publications":[
+            "Łyk optycoli (nieopublikowany)",
+            "O poznawaniu gatunków",
+            "Podręcznik mistrza damsko-męskiej gry",
+            "Wróżenie z Zajdli"
+        ],
+        "info":"Dobry autor, ciekawe teksty, przychylnie recenzowany. Raczej można na niego liczyć (choć bywały wyjątki)."
+    },
+    {
+        "name":"Lidia Grodzicka",
+        "mail":"lidia.grodzicka@gmail.com",
+        "publications":[
+            "Prawdziwie,szaleńczo, głęboko zasmucona, czyli pożegnanie z Alanem Rickmanem"
+        ],
+        "info":"Koleżanka Ophelii, dobrze przyjęty jeden artykuł, nastawiamy się na dalszą współpracę."
+    },
+    {
+        "name":"Wojciech Łanda",
+        "mail":"wojciechlanda@gmail.com",
+        "publications":[
+            "Łucznictwo tradycyjne w Polsce"
+        ],
+        "info":"Człowiek od Elin, napisał nienajgorzej, współpracowało się bez szału ale spoko."
+    },
+    {
+        "name":"Zbigniew Miszewski",
+        "mail":"zbigniewmiszewski@onet.eu",
+        "publications":[
+            "Mój pomysł na granie w RPG-i"
+        ],
+        "info":"Kontakt przez Kresydę, wydaje się niezbyt doświadczony, ale daje radę."
+    },
+    {
+        "name":"Beata Mróz",
+        "mail":"mrozaspojrzenienaswiat@gmail.com",
+        "publications":[
+            "Z czym na smoki (odrzucony)"
+        ],
+        "info":"Blogerka, z jakiegoś powodu bardzo nas lubi, pracuje nad kolejnym tekstem"
+    },
+    {
+        "name":"Damian Olszewski",
+        "mail":"dolszewski@vp.pl",
+        "publications":[
+            "Fantastyka niderlandzka",
+            "Liczba w literaturze (zawieszony)"
+        ],
+        "info":"Pierwszy tekst w redakcji, pójdzie w szóstym numerze. Kilka odrzuconych opowiadań."
+    },
+    {
+        "name":"Andrzej Pilipiuk",
+        "mail":"pilipiuk@interia.pl",
+        "publications":[
+            "Powrót na Szmulki"
+        ],
+        "info":"VIP. Kontakt do tej pory przez Toudiego."
+    },
+    {
+        "name":"Maciej Pitala",
+        "mail":"maciej.pitala@historiavita.pl",
+        "publications":[
+            "Marsjanie i słowiańscy bogowie"
+        ],
+        "info":"Wszyscy znają Toudiego ;)"
+    },
+    {
+        "name":"Piotr Poskart",
+        "mail":"poskartpiotr@gmail.com",
+        "publications":[
+            "Nolanizacja (odrzucony)"
+        ],
+        "info":"Jeden słaby tekst, głęboka ławka rezerwowych"
+    },
+    {
+        "name":"Marcin Przybyłek",
+        "mail":"gamedec@wp.pl",
+        "publications":[
+            "O nagrodach literackich"
+        ],
+        "info":"VIP, ale dobrze rokuje - w odpowiedzi na ankietę napisał długi artykuł, w dodatku całkiem sensowny."
+    },
+    {
+        "name":"Tomasz Przyłucki",
+        "mail":"tomciup@gmail.com",
+        "publications":[
+            "Uśmiech przyszłości (nieopublikowany)"
+        ],
+        "info":"Chyba lepszy prozaik niż publicysta, jak dotąd raczej kapryśny."
+    },
+    {
+        "name":"Jan Sławiński",
+        "mail":"anonimowygrzybiarz@gmail.com",
+        "publications":[
+            "John Boorman"
+        ],
+        "info":"Jeden dobry, ciekawy tekst, może być wart utrzymania kontaktu."
+    },
+    {
+        "name":"Jarosław Urbaniuk",
+        "mail":"jarek.urbaniuk@gmail.com",
+        "publications":[
+            "Wszystkiemu winne są gady"
+        ],
+        "info":"VIP, ale felietonem raczej zawiódł. Kontakt dotąd przez Toudiego."
+    },
+    {
+        "name":"Sebastian Uznański",
+        "mail":"Senerian@interia.pl",
+        "publications":[
+            "Fantasy jako współczesny mit"
+        ],
+        "info":"Pisze dobrze, ale dość hermetycznie. Raczej ławka rezerwowych."
+    },
+    {
+        "name":"Tomasz Wolski",
+        "mail":"dragonfrancja@vp.pl",
+        "publications":[
+            "Broń czarnoprochowa w grach i w rzeczywistości"
+        ],
+        "info":"Taki sobie publicysta, obiecujący prozaik (IMO), dobrze zna się na swoim temacie."
+    },
+    {
+        "name":"Simon Zack",
+        "mail":"simonzackofficial@gmail.com",
+        "publications":[
+            "ABC wychodzenia z szuflady",
+            "Akademia Oscara nie przyznała, ukochany film z kretesem olała",
+            "Keep Flying",
+            "Poszedł Simon do doktora",
+            "Różne odcienie selfa"
+        ],
+        "info":"Praktycznie stały współpracownik, i to bardzo dobry."
+    },
+    {
+        "name":"Rafał Szklarski",
+        "mail":"szklany1002@o2.pl",
+        "publications":[
+            "Takeshi. Cień śmierci (odrzucony)"
+        ],
+        "info":"Jedna kiepska recenzja. Głęboka rezerwa."
+    },
+    {
+        "name":"Magdalena Świerczek",
+        "mail":"magdalenafilozofia@gmail.com",
+        "publications":[
+            "Szczęście Frankensteina"
+        ],
+        "info":"Na razie jedna publikacja, obiecująca."
+    },
+    {
+        "name":"Krzysztof Zięba",
+        "mail":"christopherzieba@gmail.com",
+        "publications":[
+            "Cztery dni z tysiącem planszówek"
+        ],
+        "info":"Napisał porządną relację z targów i dobrze się z nim przy niej współpracowało."
+    }
+]
